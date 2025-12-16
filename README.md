@@ -38,7 +38,16 @@ Managed information systems to support organizational needs, including database 
 Visual Basic .NET developer on the Matriix Gescom project, a commercial management and inventory software. Main responsibilities include working in a team during the development, testing, deployment, and maintenance phases. 
 
 
-## SKILLS
+## EDUCATION
+### Associate management IT, Siantou Higher Institute
+#### SEPTEMBER 2005 — NOVEMBER 2007
+
+### Bachelor Computer Programming, University of Dschang
+#### SEPTEMBER 2007 — SEPTEMBER 2010
+
+### Computer Programming, Gwinnett Technical College
+#### MAY 2024 — DECEMBER 2025
+
 
 ## ARCHIEVEMENTS
 
