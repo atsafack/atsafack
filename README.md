@@ -80,14 +80,19 @@ C++
 SQL
 
 ## ARCHIEVEMENTS
+<a href="[https://www.matriix-gestion.com/](https://www.matriix-gestion.com/)" target="_blank">
+  <img src="https://www.facebook.com/photo/?fbid=407474681489387&set=a.407474644822724"
+       alt="LinkedIn"
+       width="40" />
+</a>
 
 ## LINKS
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/albert-atsafack/)" target="_blank">
+<a href="[https://www.linkedin.com/in/albert-atsafack/](https://www.linkedin.com/in/albert-atsafack/)" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        alt="LinkedIn"
        width="40" />
 </a>
-Linkedin: https://www.linkedin.com/in/albert-atsafack/ , 
+
 Final project Webdevelopment 1: http://albertdesign.us/1510/final/index.html , 
-Expert3dev website: https://www.matriix-gestion.com/
+
 
