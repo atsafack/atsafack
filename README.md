@@ -39,16 +39,55 @@ Visual Basic .NET developer on the Matriix Gescom project, a commercial manageme
 
 
 ## EDUCATION
-### Associate management IT, Siantou Higher Institute
-#### SEPTEMBER 2005 — NOVEMBER 2007
-
-### Bachelor Computer Programming, University of Dschang
-#### SEPTEMBER 2007 — SEPTEMBER 2010
+### Gwinnett Technical College	
+#### Diploma Computer Programming, May 2024 — Dec 2026
 
 ### Computer Programming, Gwinnett Technical College
 #### MAY 2024 — DECEMBER 2025
 
+### Bachelor Computer Programming, University of Dschang
+#### SEPTEMBER 2007 — SEPTEMBER 2010
+
+### Associate management IT, Siantou Higher Institute
+#### SEPTEMBER 2005 — NOVEMBER 2007
+
+## INTERNSHIPS
+### IT Analysist for Associate diploma at BEAC, Yaoundé, Cameroon	
+#### MAY 2007 — JULY 2007
+IT Analyst in the project to develop software for managing the software and hardware resources of the IT system 
+Computer programming at Expert3Dev, Yaoundé / Cameroon	
+
+#### JULY 2010 — SEPTEMBER 2010
+Contribution to the development of the MATRIIX-GESCOM business and inventory management software. 
+Development of several websites using a CMS. 
+Sql Server Database optimisation 
+Software integration, test and deployment 
+Database backup 
+
+## SKILLS
+Java Development
+Active Directory Management
+Inventory Management	 
+Sql Server, MySql, Oracle Database 
+Aws cloud practioner
+HTML5, CSS
+Spring boot, JSP 
+
+## LANGUAGES
+Java
+Visual.Net, 
+C++
+SQL
 
 ## ARCHIEVEMENTS
 
-## HOBBIES
+## LINKS
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/albert-atsafack/)" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn"
+       width="40" />
+</a>
+Linkedin: https://www.linkedin.com/in/albert-atsafack/ , 
+Final project Webdevelopment 1: http://albertdesign.us/1510/final/index.html , 
+Expert3dev website: https://www.matriix-gestion.com/
+
