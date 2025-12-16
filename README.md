@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # My Name is Albert.
+
+[Educational]
+
+## OBJECTIVES
+
+## SKILLS
+
+## ARCHIEVEMENTS
+
+## HOBBIES
