@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="assets/Photo.jpg" alt="Expert3dev website" width="200"/>
-
-
-#
 
 # Albert ATSAFACK, Portfolio
 
