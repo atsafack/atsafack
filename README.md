@@ -1,9 +1,12 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
+
 **atsafack/atsafack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,8 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="assets/Photo.jpg" alt="Expert3dev website" width="200"/>
 
-# My Name is Albert.
+
+#
+
+# Albert ATSAFACK, Portfolio
 
 ## PROFESSIONAL SUMMARY
 With a background in information management and programming  spanning over several years, and experienced in machine operator. Expertise includes developing sales and inventory management applications and managing network resources with Active Directory. Held key roles in operations and warehouse management, enhancing productivity and streamlining processes. Pursuing a career as a Java Developer, with goals to expand into full-stack development and cloud computing
