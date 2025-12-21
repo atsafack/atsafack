@@ -41,6 +41,7 @@ Managed information systems to support organizational needs, including database 
 Visual Basic .NET developer on the Matriix Gescom project, a commercial management and inventory software. Main responsibilities include working in a team during the development, testing, deployment, and maintenance phases. 
 
 
+
 ## EDUCATION
 ### Gwinnett Technical College	
 #### Diploma Computer Programming, May 2024 — Dec 2026
@@ -84,12 +85,15 @@ SQL
 
 ## ARCHIEVEMENTS
 <a href="https://www.matriix-gestion.com/" target="_blank">
-  <img src="https://www.facebook.com/photo/?fbid=407474681489387&set=a.407474644822724" alt="Expert3dev website" width="40" />
+  <img src="image-matriix-erp.jpg/" alt="Expert3dev website" width="40" />
 </a>
 
-
 <a href="http://albertdesign.us/1510/final/index.html" target="_blank">
-  <img src="https://www.facebook.com/photo/?fbid=407474681489387&set=a.407474644822724" alt="Final project Webdevelopment I" width="40" />
+  <img src="http://albertdesign.us/1510/final/index.html" width="40" alt="Web developement Final project" />
+</a>
+
+<a href="https://www.groupesomaf.com/" target="_blank">
+  <img src="assets/image" width="40" alt="Group Somaf S.A" />
 </a>
 
 
