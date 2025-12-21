@@ -85,7 +85,7 @@ SQL
 
 ## ARCHIEVEMENTS
 <a href="https://www.matriix-gestion.com/" target="_blank">
-  <img src="image-matriix-erp.jpg/" alt="Expert3dev website" width="40" />
+  <img src="/image-matriix-erp.jpg/" alt="Expert3dev website" width="40" />
 </a>
 
 <a href="http://albertdesign.us/1510/final/index.html" target="_blank">
@@ -93,7 +93,7 @@ SQL
 </a>
 
 <a href="https://www.groupesomaf.com/" target="_blank">
-  <img src="assets/image" width="40" alt="Group Somaf S.A" />
+  <img src="/assets/image" width="40" alt="Group Somaf S.A" />
 </a>
 
 
