@@ -89,7 +89,7 @@ SQL
 </a>
 
 <a href="http://albertdesign.us/1510/final/index.html" target="_blank">
-  <img src="http://albertdesign.us/1510/final/images/albertdesign.JPG" width="40" alt="Web developement Final project" />
+  <img src="assets/image/personal-photo.jpg" width="40" alt="Web developement Final project" />
 </a>
 
 <a href="https://www.groupesomaf.com/" target="_blank">
