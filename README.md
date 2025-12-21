@@ -89,11 +89,11 @@ SQL
 </a>
 
 <a href="http://albertdesign.us/1510/final/index.html" target="_blank">
-  <img src="http://albertdesign.us/1510/final/index.html" width="40" alt="Web developement Final project" />
+  <img src="http://albertdesign.us/1510/final/images/albertdesign.JPG" width="40" alt="Web developement Final project" />
 </a>
 
 <a href="https://www.groupesomaf.com/" target="_blank">
-  <img src="assets/image" width="40" alt="Group Somaf S.A" />
+  <img src="assets/image/group-somaf-logo.png" width="40" alt="Group Somaf S.A" />
 </a>
 
 
